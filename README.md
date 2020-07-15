@@ -1,9 +1,3 @@
-https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=*&inputtype=textquery&fields=formatted_address,name,type,geometry&locationbias=circle:2000@41.994586517,-87.657610865&key=AIzaSyB6GjUHFlh2X8xy5PkOEjhQ5Hqo71O1igQ
-ID,Date,Primary Type,Location Description,Arrest,Latitude,Longitude
-8421488,01/01/2012 01:19:00 AM,ARSON,RESIDENCE PORCH/HALLWAY,False,41.994586517,-87.657610865
-8423396,01/02/2012 10:48:00 PM,ARSON,RESIDENCE-GARAGE,False,41.873414354,-87.728269323
-
-
 Determines location from latitude and longitude datas. By using this location, determines near places within 2 kilometers.
 
 # File format and Google API Key
